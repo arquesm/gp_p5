@@ -1,0 +1,43 @@
+<svg width="393" height="390" viewBox="0 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_84_151)">
+<rect width="146" height="390" fill="white"/>
+<rect x="40" width="67" height="40" fill="#37F94B"/>
+<rect x="40" y="350" width="67" height="40" fill="#37F94B"/>
+<rect y="350" width="310" height="40" transform="rotate(-90 0 350)" fill="#37F94B"/>
+<rect x="107" y="350" width="310" height="41" transform="rotate(-90 107 350)" fill="#37F94B"/>
+</g>
+<g clip-path="url(#clip1_84_151)">
+<g clip-path="url(#clip2_84_151)">
+<rect width="247" height="208" transform="translate(146)" fill="white"/>
+<rect x="186" width="168" height="20" fill="#37F94B"/>
+<rect x="186" y="188" width="168" height="20" fill="#37F94B"/>
+<rect x="146" y="188" width="168" height="40" transform="rotate(-90 146 188)" fill="#37F94B"/>
+<rect x="354" y="188" width="168" height="39" transform="rotate(-90 354 188)" fill="#37F94B"/>
+</g>
+<g clip-path="url(#clip3_84_151)">
+<rect width="247" height="182" transform="translate(146 208)" fill="white"/>
+<rect x="289.5" y="370" width="84" height="20" fill="#37F94B"/>
+<rect x="289.5" y="208" width="84" height="20" fill="#37F94B"/>
+<rect x="373.5" y="370" width="142" height="20" transform="rotate(-90 373.5 370)" fill="#37F94B"/>
+<rect x="269.5" y="228" width="20" height="142" fill="#37F94B"/>
+<rect x="166" y="370" width="84" height="20" fill="#37F94B"/>
+<rect x="166" y="208" width="84" height="20" fill="#37F94B"/>
+<rect x="250" y="370" width="142" height="20" transform="rotate(-90 250 370)" fill="#37F94B"/>
+<rect x="146" y="228" width="20" height="142" fill="#37F94B"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_84_151">
+<rect width="146" height="390" fill="white"/>
+</clipPath>
+<clipPath id="clip1_84_151">
+<rect width="247" height="390" fill="white" transform="translate(146)"/>
+</clipPath>
+<clipPath id="clip2_84_151">
+<rect width="247" height="208" fill="white" transform="translate(146)"/>
+</clipPath>
+<clipPath id="clip3_84_151">
+<rect width="247" height="182" fill="white" transform="translate(146 208)"/>
+</clipPath>
+</defs>
+</svg>
